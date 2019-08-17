@@ -8,7 +8,7 @@ Discover who uses WhatsApp
 
 WhatsChecker requires Python 2.
 
-Install the dependencies and devDependencies and start the server.
+Install the requirements.
 
 ```sh
 $ pip install requests
