@@ -1,0 +1,8 @@
+{
+    "accounts": [
+        {
+            "username": "Enter your username", 
+            "api": "Enter your Api Key"
+        }
+    ]
+}
